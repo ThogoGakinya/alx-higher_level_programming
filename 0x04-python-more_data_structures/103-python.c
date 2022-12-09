@@ -8,7 +8,7 @@
 void print_python_bytes(PyObject *p)
 {
 	char *string;
-	long int size, i, limit;	
+	long int size, i, limit;
 	printf("[.] bytes object info\n");
 	if (!PyBytes_Check(p))
 	{
