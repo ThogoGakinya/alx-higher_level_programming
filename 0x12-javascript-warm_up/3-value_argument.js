@@ -5,4 +5,3 @@ if (myArg === undefined) {
 } else {
   console.log(myArg);
 }
-

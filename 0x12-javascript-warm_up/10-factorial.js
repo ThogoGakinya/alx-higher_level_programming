@@ -12,4 +12,3 @@ if (numArg === undefined) {
 } else {
   console.log(factorial(numArg));
 }
-

@@ -7,4 +7,3 @@ if (myArgs[0] && myArgs[1]) {
 } else {
   console.log('undefined is undefined');
 }
-
